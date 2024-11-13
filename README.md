@@ -33,13 +33,6 @@ Programmer for over 12 years. I spent many years learning, practicing and teachi
 - instagram : [@qianmoss](https://instagram.com/qianmoss/)
 - linkedin : [@qianmoss](https://www.linkedin.com/in/qianmoss/)
 
-<p align="center">
-  <a href="https://github.com/qianmoss/qianmoss">
-    <img src="https://komarev.com/ghpvc/?qianmoss=qclaogui&label=Profile+views" />
-  </a>
-</p>
-
-
 <!---
 Iamkianfar/Iamkianfar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
