@@ -34,8 +34,8 @@ Programmer for over 12 years. I spent many years learning, practicing and teachi
 - linkedin : [@qianmoss](https://www.linkedin.com/in/qianmoss/)
 
 <p align="center">
-  <a href="https://github.com/qclaogui/qclaogui">
-    <img src="https://komarev.com/ghpvc/?username=qclaogui&label=Profile+views" />
+  <a href="https://github.com/qianmoss/qianmoss">
+    <img src="https://komarev.com/ghpvc/?qianmoss=qclaogui&label=Profile+views" />
   </a>
 </p>
 
